@@ -1,0 +1,306 @@
+﻿  db_mysql_colegio.cpp
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(5,1): error C2011: 'ConexionBD': 'class' type redefinition
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(22,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(22,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(44,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(44,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(73,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(73,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(98,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(98,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(101,25): error C2065: 'id': undeclared identifier
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(40,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(40,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,214): error C2676: binary '+': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5034,62):
+  could be 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': template parameter '_Elem' is ambiguous
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		could be 'int'
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		or       'char'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': could not deduce template argument for 'const _Elem' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5028,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )': could not deduce template argument for 'const _Elem *const ' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5022,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5016,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const _Elem *const ' from 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5003,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4997,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4991,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4980,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': template parameter '_Elem' is ambiguous
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		could be 'int'
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		or       'char'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'const _Elem' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4967,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': could not deduce template argument for 'const _Elem *const ' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4956,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4943,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const _Elem *const ' from 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4931,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4311,5):
+  or       'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)': could not deduce template argument for 'const std::move_iterator<_Iter> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1792,50):
+  or       'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)': could not deduce template argument for 'const std::reverse_iterator<_BidIt> &' from 'int'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(62,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(62,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(91,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(91,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(116,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(116,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'db_mysql_colegio.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(121,55): error C2065: 'ii': undeclared identifier
+  (compiling source file 'db_mysql_colegio.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\db_mysql_colegio.cpp(23,27): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Estudiante'
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\db_mysql_colegio.cpp(23,27):
+  'Estudiante::Estudiante': function does not take 5 arguments
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\db_mysql_colegio.cpp(23,27):
+  	while trying to match the argument list '(std::string, std::string, std::string, std::string, std::string)'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\db_mysql_colegio.cpp(24,2): error C2065: 'c': undeclared identifier
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\db_mysql_colegio.cpp(25,2): error C2065: 'c': undeclared identifier
+  Estudiante.cpp
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(5,1): error C2011: 'ConexionBD': 'class' type redefinition
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(22,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(22,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(44,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(44,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(73,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(73,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(98,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(98,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(101,25): error C2065: 'id': undeclared identifier
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(40,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(40,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,214): error C2676: binary '+': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+  (compiling source file 'Estudiante.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5034,62):
+  could be 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': template parameter '_Elem' is ambiguous
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		could be 'int'
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		or       'char'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': could not deduce template argument for 'const _Elem' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5028,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )': could not deduce template argument for 'const _Elem *const ' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5022,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5016,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const _Elem *const ' from 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5003,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4997,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4991,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4980,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': template parameter '_Elem' is ambiguous
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		could be 'int'
+  		C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  		or       'char'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'const _Elem' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4967,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': could not deduce template argument for 'const _Elem *const ' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4956,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4943,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const _Elem *const ' from 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4931,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4311,5):
+  or       'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)': could not deduce template argument for 'const std::move_iterator<_Iter> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1792,50):
+  or       'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)'
+  	C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(44,206):
+  	'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)': could not deduce template argument for 'const std::reverse_iterator<_BidIt> &' from 'int'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(62,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(62,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(91,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(91,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(116,14): error C2079: 'cn' uses undefined class 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(116,29): error C2027: use of undefined type 'ConexionBD'
+  (compiling source file 'Estudiante.cpp')
+  C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\ConexionBD.h(4,7):
+  see declaration of 'ConexionBD'
+  
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\Estudiante.h(121,55): error C2065: 'ii': undeclared identifier
+  (compiling source file 'Estudiante.cpp')
+  
+  tipo_sangre.cpp
+C:\Users\hg259\OneDrive\Escritorio\Visual Studio Community projects\db_mysql_colegio\db_mysql_colegio\tipo_sangre.h(101,25): error C2065: 'id': undeclared identifier
+  (compiling source file 'tipo_sangre.cpp')
+  
